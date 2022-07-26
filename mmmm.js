@@ -1,6 +1,7 @@
 function DONE() {
   alert("YDM 4 LOCOMOTIVE") 
   alert("It is a meter gauge locomotive") 
+  alert("Maximum speed: 96 km/h")
 }
 
 function DTWO() {
