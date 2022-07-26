@@ -21,8 +21,8 @@ function DTHREE() {
 function DFOUR() {
   alert("WDM 2 LOCOMOTIVE") 
   alert("It is a broad gauge locomotive")  
-  alert("Maximum speed: 96 km/h")
-    alert("Power output: 4,500 hp (3,360 kW)")
+  alert("Maximum speed: 120 km/h")
+    alert("Power output: 2,600 hp (1,900 kW)")
 }
 function DFIVE() {
   alert("WDM 3A LOCOMOTIVE") 
