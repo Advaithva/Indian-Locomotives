@@ -2,7 +2,7 @@ function DONE() {
   alert("YDM 4 LOCOMOTIVE") 
   alert("It is a meter gauge locomotive") 
   alert("Maximum speed: 96 km/h")
-  alert("Power output: 4,500 hp (3,360 kW)")
+  alert("Power output: 1,400 hp (1,000 kW)")
 }
 
 function DTWO() {
