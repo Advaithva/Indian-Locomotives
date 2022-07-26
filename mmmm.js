@@ -42,3 +42,10 @@ function DEIGHT() {
   alert("It is a broad gauge locomotive")  
   alert("Maximum speed: 96 km/h")
 }
+
+function DNINE() {
+  alert("WDP 4D LOCOMOTIVE") 
+  alert("It is a broad gauge locomotive")  
+  alert("Maximum speed: 96 km/h")
+}
+
