@@ -1,3 +1,3 @@
-function D1() {
+function DONE() {
   alert("YDM 4 LOCOMOTIVE") 
 }
