@@ -6,7 +6,8 @@ function DONE() {
 
 function DTWO() {
   alert("WDG 3A LOCOMOTIVE") 
-  alert("It is a broad gauge locomotive") 
+  alert("It is a broad gauge locomotive")  
+  alert("Maximum speed: 96 km/h")
 }
 function DTHREE() {
   alert("WDG 4 LOCOMOTIVE") 
@@ -16,7 +17,8 @@ function DTHREE() {
 
 function DFOUR() {
   alert("WDM 2 LOCOMOTIVE") 
-  alert("It is a broad gauge locomotive") 
+  alert("It is a broad gauge locomotive")  
+  alert("Maximum speed: 96 km/h")
 }
 function DFIVE() {
   alert("WDM 3A LOCOMOTIVE") 
@@ -26,7 +28,8 @@ function DFIVE() {
 
 function DSIX() {
   alert("WDP 1 LOCOMOTIVE") 
-  alert("It is a broad gauge locomotive") 
+  alert("It is a broad gauge locomotive")  
+  alert("Maximum speed: 96 km/h")
 }
 function DSEVEN() {
   alert("WDP 3A LOCOMOTIVE") 
@@ -36,5 +39,6 @@ function DSEVEN() {
 
 function DEIGHT() {
   alert("WDP 4 LOCOMOTIVE") 
-  alert("It is a broad gauge locomotive") 
+  alert("It is a broad gauge locomotive")  
+  alert("Maximum speed: 96 km/h")
 }
