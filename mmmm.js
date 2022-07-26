@@ -9,7 +9,7 @@ function DTWO() {
   alert("WDG 3A LOCOMOTIVE") 
   alert("It is a broad gauge locomotive")  
   alert("Maximum speed: 105 km/h")
-    alert("Power output: 4,500 hp (3,360 kW)")
+    alert("Power output:3100 HP")
 }
 function DTHREE() {
   alert("WDG 4 LOCOMOTIVE") 
