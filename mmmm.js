@@ -48,7 +48,7 @@ function DEIGHT() {
   alert("WDP 4 LOCOMOTIVE") 
   alert("It is a broad gauge locomotive")  
   alert("Maximum speed: 180 km/h")
-    alert("Power output: 4,500 hp (3,360 kW)")
+    alert("Power output: 4,000 hp (2,980 kW)")
 }
 
 function DNINE() {
