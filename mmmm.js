@@ -34,8 +34,8 @@ function DFIVE() {
 function DSIX() {
   alert("WDP 1 LOCOMOTIVE") 
   alert("It is a broad gauge locomotive")  
-  alert("Maximum speed: 96 km/h")
-    alert("Power output: 4,500 hp (3,360 kW)")
+  alert("Maximum speed: 140 km/h")
+    alert("Power output: 2,300 hp (1,700 kW")
 }
 function DSEVEN() {
   alert("WDP 3A LOCOMOTIVE") 
