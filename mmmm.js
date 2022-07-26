@@ -3,7 +3,7 @@ function DONE() {
   alert("It is a meter gauge locomotive") 
 }
 
-function D2() {
+function DTWO() {
   alert("WDG 3A LOCOMOTIVE") 
   alert("It is a broad gauge locomotive") 
 }
