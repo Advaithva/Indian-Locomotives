@@ -7,12 +7,12 @@ function DONE() {
 function DTWO() {
   alert("WDG 3A LOCOMOTIVE") 
   alert("It is a broad gauge locomotive")  
-  alert("Maximum speed: 96 km/h")
+  alert("Maximum speed: 105 km/h")
 }
 function DTHREE() {
   alert("WDG 4 LOCOMOTIVE") 
   alert("It is a broad gauge locomotive") 
-  alert("Maximum speed: 96 km/h")
+  alert("Maximum speed: 105 km/h")
 }
 
 function DFOUR() {
