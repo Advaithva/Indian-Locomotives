@@ -72,33 +72,33 @@ function WAGB() {
   alert("WAG 7 LOCOMOTIVE") 
   alert("It is a broad gauge locomotive")  
   alert("Maximum speed: 105 km/h")
-    alert("Power output:3100 HP")
+    alert("Power output:5,350 hp (3,990 kW)")
 }
 function WAGC() {
   alert("WAG 9 LOCOMOTIVE") 
   alert("It is a broad gauge locomotive") 
-  alert("Maximum speed: 105 km/h")
-    alert("Power output: 4,500 hp (3,360 kW)")
+  alert("Maximum speed: 100 km/h")
+    alert("Power output:  6,122 hp (4,565 kW)")
 }
 
 function WAGD() {
   alert("WAG 12 LOCOMOTIVE") 
   alert("It is a broad gauge locomotive")  
   alert("Maximum speed: 120 km/h")
-    alert("Power output: 2,600 hp (1,900 kW)")
+    alert("Power output: 12,000 hp (8,950 kW)")
 }
 function WAM() {
   alert("WAM 4 LOCOMOTIVE") 
   alert("It is a broad gauge locomotive") 
   alert("Maximum speed: 120 km/h")
-  alert("Power output: 3100 HP")
+  alert("Power output: 3,640 hp (2,710 kW)")
 }
 
 function WCAM() {
   alert("WCAM 3 LOCOMOTIVE") 
   alert("It is a broad gauge locomotive")  
-  alert("Maximum speed: 140 km/h")
-    alert("Power output: 2,300 hp (1,700 kW")
+  alert("Maximum speed: 105 km/h")
+    alert("Power output: 5,350 hp (3,990 kW)")
 }
 function WAPA() {
   alert("WAP 4 LOCOMOTIVE") 
@@ -110,14 +110,14 @@ function WAPA() {
 function WAPB() {
   alert("WAP 5 LOCOMOTIVE") 
   alert("It is a broad gauge locomotive")  
-  alert("Maximum speed: 180 km/h")
-    alert("Power output: 4,000 hp (2,980 kW)");
+  alert("Maximum speed: Operational : 160 km/h (99 mph)   Trials: 184 km/h (114 mph)   Potential: 225 km/h (140 mph)")
+    alert("Power output: 6,120 hp (4,564 kW)");
 }
 
 function WAPC() {
   alert("WAP 7 LOCOMOTIVE") 
   alert("It is a broad gauge locomotive")  
-  alert("Maximum speed: 135 km/h")
-    alert("Power output: 4,500 hp (3,360 kW)")
+  alert("Maximum speed: 180 km/h")
+    alert("Power output:  6,350 hp (4,740 kW)")
 }
 
