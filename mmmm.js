@@ -64,8 +64,8 @@ function WDPD() {
 function WAGA() {
   alert("WAG 5 LOCOMOTIVE") 
   alert("It is a broad gauge locomotive") 
-  alert("Maximum speed: 96 km/h")
-  alert("Power output: 1,400 hp (1,000 kW)")
+  alert("Maximum speed: 105 km/h")
+  alert("Power output: 3,850 hp (2,870 kW)")
 }
 
 function WAGB() {
