@@ -1,57 +1,57 @@
-function DO() {
+function YDM() {
   alert("YDM 4 LOCOMOTIVE") 
   alert("It is a meter gauge locomotive") 
   alert("Maximum speed: 96 km/h")
   alert("Power output: 1,400 hp (1,000 kW)")
 }
 
-function DT() {
+function WDGA() {
   alert("WDG 3A LOCOMOTIVE") 
   alert("It is a broad gauge locomotive")  
   alert("Maximum speed: 105 km/h")
     alert("Power output:3100 HP")
 }
-function DTH() {
+function WDGB() {
   alert("WDG 4 LOCOMOTIVE") 
   alert("It is a broad gauge locomotive") 
   alert("Maximum speed: 105 km/h")
     alert("Power output: 4,500 hp (3,360 kW)")
 }
 
-function DF() {
+function WDMA() {
   alert("WDM 2 LOCOMOTIVE") 
   alert("It is a broad gauge locomotive")  
   alert("Maximum speed: 120 km/h")
     alert("Power output: 2,600 hp (1,900 kW)")
 }
-function DFI() {
+function WDMB() {
   alert("WDM 3A LOCOMOTIVE") 
   alert("It is a broad gauge locomotive") 
   alert("Maximum speed: 120 km/h")
   alert("Power output: 3100 HP")
 }
 
-function DS() {
+function WDPA() {
   alert("WDP 1 LOCOMOTIVE") 
   alert("It is a broad gauge locomotive")  
   alert("Maximum speed: 140 km/h")
     alert("Power output: 2,300 hp (1,700 kW")
 }
-function DSE() {
+function WDPB() {
   alert("WDP 3A LOCOMOTIVE") 
   alert("It is a broad gauge locomotive") 
   alert("Maximum speed: 160 km/h")
     alert("Power output: 3100 HP")
 }
 
-function DE() {
+function WDPC() {
   alert("WDP 4 LOCOMOTIVE") 
   alert("It is a broad gauge locomotive")  
   alert("Maximum speed: 180 km/h")
     alert("Power output: 4,000 hp (2,980 kW)");
 }
 
-function DN() {
+function WDPD() {
   alert("WDP 4D LOCOMOTIVE") 
   alert("It is a broad gauge locomotive")  
   alert("Maximum speed: 135 km/h")
@@ -61,60 +61,60 @@ function DN() {
 
 
 
-function EONE() {
+function WAGA() {
   alert("WAG 5 LOCOMOTIVE") 
   alert("It is a broad gauge locomotive") 
   alert("Maximum speed: 96 km/h")
   alert("Power output: 1,400 hp (1,000 kW)")
 }
 
-function ETWO() {
+function WAGB() {
   alert("WAG 7 LOCOMOTIVE") 
   alert("It is a broad gauge locomotive")  
   alert("Maximum speed: 105 km/h")
     alert("Power output:3100 HP")
 }
-function ETHREE() {
+function WAGC() {
   alert("WAG 9 LOCOMOTIVE") 
   alert("It is a broad gauge locomotive") 
   alert("Maximum speed: 105 km/h")
     alert("Power output: 4,500 hp (3,360 kW)")
 }
 
-function EFOUR() {
+function WAGD() {
   alert("WAG 12 LOCOMOTIVE") 
   alert("It is a broad gauge locomotive")  
   alert("Maximum speed: 120 km/h")
     alert("Power output: 2,600 hp (1,900 kW)")
 }
-function EFIVE() {
+function WAM() {
   alert("WAM 4 LOCOMOTIVE") 
   alert("It is a broad gauge locomotive") 
   alert("Maximum speed: 120 km/h")
   alert("Power output: 3100 HP")
 }
 
-function ESIX() {
+function WCAM() {
   alert("WCAM 3 LOCOMOTIVE") 
   alert("It is a broad gauge locomotive")  
   alert("Maximum speed: 140 km/h")
     alert("Power output: 2,300 hp (1,700 kW")
 }
-function ESEVEN() {
+function WAPA() {
   alert("WAP 4 LOCOMOTIVE") 
   alert("It is a broad gauge locomotive") 
   alert("Maximum speed: 160 km/h")
     alert("Power output: 3100 HP")
 }
 
-function EEIGHT() {
+function WAPB() {
   alert("WAP 5 LOCOMOTIVE") 
   alert("It is a broad gauge locomotive")  
   alert("Maximum speed: 180 km/h")
     alert("Power output: 4,000 hp (2,980 kW)");
 }
 
-function ENINE() {
+function WAPC() {
   alert("WAP 7 LOCOMOTIVE") 
   alert("It is a broad gauge locomotive")  
   alert("Maximum speed: 135 km/h")
