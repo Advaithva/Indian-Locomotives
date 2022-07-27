@@ -103,8 +103,8 @@ function WCAM() {
 function WAPA() {
   alert("WAP 4 LOCOMOTIVE") 
   alert("It is a broad gauge locomotive") 
-  alert("Maximum speed: 160 km/h")
-    alert("Power output: 3100 HP")
+  alert("Maximum speed: 140 km/h")
+    alert("Power output:  5,050 hp (3,766 kW)")
 }
 
 function WAPB() {
