@@ -121,3 +121,9 @@ function WAPC() {
     alert("Power output:  6,350 hp (4,740 kW)")
 }
 
+function LOAD() {
+ alert("Loading...") 
+ alert("Click on the images to see more information")
+  
+}
+
