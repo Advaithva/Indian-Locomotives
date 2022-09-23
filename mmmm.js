@@ -53,10 +53,10 @@ function WDPC() {
 }
 
 function WDPD() {
-  alert("WDP 4D LOCOMOTIVE") 
-  alert("It is a broad gauge locomotive")  
-  alert("Maximum speed: 135 km/h")
-    alert("Power output: 4,500 hp (3,360 kW)")
+  alert("WDG 6G LOCOMOTIVE") 
+  alert("WDG-6G is a class of diesel-electric locomotive used by the Indian Railways for freight duty. The locomotive is a higher power variant of the WDG-4G locomotive which was also designed by General Electric. The design platform is based on the GE Evolution Series and features a 4-stroke 16-cylinder fully turbocharged engine which delivers around 6,000 horsepower.")  
+  alert("Maximum speed: 100 km/h")
+    alert("Power output: 6,000 hp (4,470 kW))")
 }
 
 
