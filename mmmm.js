@@ -7,14 +7,15 @@ function YDM() {
 
 function WDGA() {
   alert("WDG 3A LOCOMOTIVE") 
-  alert("It is a broad gauge locomotive")  
+  alert("The Indian locomotive class WDG-3A is a class of diesel-electric locomotive that was developed in 1994 by Banaras Locomotive Works (BLW),Varanasi for Indian Railways. The model name stands for broad-gauge (W), Diesel (D), Goods traffic (G) engine, 3100 Horsepower (3A) locomotive. hey entered service on 18 July 1995. A total of 1164 WDG-3A units were built between 1994 and 2015 at BLW, Varanasi with a few units being produced by Diesel Loco Modernisation Works (DLMW) and Parel Workshop. It is considered to be a successful locomotive class with high reliability and few maintenance problems. Despite the introduction of more modern types of locomotives like WDG-4 and electrification, a significant number are still in use, both in mainline and departmental duties. As of April 2022, 1047 locomotives still retain operational status on the mainline as WDG-3A, with a few examples having been converted to WAGC3 or WAG-10.") 
+  
   alert("Maximum speed: 105 km/h")
     alert("Power output:3100 HP")
 }
 function WDGB() {
   alert("WDG 4 LOCOMOTIVE") 
-  alert("The Indian locomotive class WDG-3A is a class of diesel-electric locomotive that was developed in 1994 by Banaras Locomotive Works (BLW),Varanasi for Indian Railways. The model name stands for broad-gauge (W), Diesel (D), Goods traffic (G) engine, 3100 Horsepower (3A) locomotive. hey entered service on 18 July 1995. A total of 1164 WDG-3A units were built between 1994 and 2015 at BLW, Varanasi with a few units being produced by Diesel Loco Modernisation Works (DLMW) and Parel Workshop. It is considered to be a successful locomotive class with high reliability and few maintenance problems. Despite the introduction of more modern types of locomotives like WDG-4 and electrification, a significant number are still in use, both in mainline and departmental duties. As of April 2022, 1047 locomotives still retain operational status on the mainline as WDG-3A, with a few examples having been converted to WAGC3 or WAG-10.") 
   alert("Maximum speed: 105 km/h")
+  alert("The Indian locomotive class WDG-4 (EMD GT46MAC) is a freight-hauling diesel-electric locomotive with AC electric transmission designed by General Motors Electro-Motive Diesel[1] in 1997–1998 for Indian Railways, where they are classed as WDG-4. Thirteen were built by EMD as order #958647, and a further eight were exported in kit form and assembled in India. The class entered service in 1999. Further construction has been under license in India by the Banaras Locomotive Works (BLW); more than 60 additional locomotives have been built as of 2006. They are numbered from #12001 upward. A similar type, the EMD GT46PAC, has also been produced for passenger service in India. Newer editions with 4,500 hp (3,400 kW) have been produced. Over 1,000 WDG-4 locomotives are currently in operation. ")
     alert("Power output: 4,500 hp (3,360 kW)")
 }
 
