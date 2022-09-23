@@ -13,7 +13,7 @@ function WDGA() {
 }
 function WDGB() {
   alert("WDG 4 LOCOMOTIVE") 
-  alert("It is a broad gauge locomotive") 
+  alert("The Indian locomotive class WDG-3A is a class of diesel-electric locomotive that was developed in 1994 by Banaras Locomotive Works (BLW),Varanasi for Indian Railways. The model name stands for broad-gauge (W), Diesel (D), Goods traffic (G) engine, 3100 Horsepower (3A) locomotive. hey entered service on 18 July 1995. A total of 1164 WDG-3A units were built between 1994 and 2015 at BLW, Varanasi with a few units being produced by Diesel Loco Modernisation Works (DLMW) and Parel Workshop. It is considered to be a successful locomotive class with high reliability and few maintenance problems. Despite the introduction of more modern types of locomotives like WDG-4 and electrification, a significant number are still in use, both in mainline and departmental duties. As of April 2022, 1047 locomotives still retain operational status on the mainline as WDG-3A, with a few examples having been converted to WAGC3 or WAG-10.") 
   alert("Maximum speed: 105 km/h")
     alert("Power output: 4,500 hp (3,360 kW)")
 }
