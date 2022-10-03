@@ -40,7 +40,7 @@ function WDPA() {
 }
 function WDPB() {
   alert("WDP 3A LOCOMOTIVE") 
-  alert("It is a broad gauge locomotive") 
+  alert("The Indian locomotive class WDP-3A also known as Toaster is a class of diesel-electric locomotive that was developed in 1998 by Banaras Locomotive Works, Varanasi for Indian Railways. The model name stands for broad gauge (W), Diesel (D), Passengers traffic (P) locomotive with 3100 horsepower (3A). The WDP-3A is a later classification of earlier WDP-2. They entered service in 1998. A total of 44 were built between 1998 and 2001.They are the Fastest ALCo based locomotive found in India with a Top speed of 160 km/h, on par with the premier Electric Locomotives. The WDP-3A served IR for over 24 years. A significant number of these locomotives are still in use, both on mainline and departmental duties. As of June 2022, few of the locomotives still retain operational status on the mainline as WDP-3A, with further examples having been Scrapped. The WDP3A was best known for hauling the Trivandrum Rajdhani and later on the Mumbai CSMT - Karmali Tejas Express through the Konkan Railway at a top speed of 120 kmh single-handedly. In 2018, a couple of GOC Based WDP3A locomotives were rebuilt at DMW Patiala with better bogies for Riding comfort. Such Rebuilt toasters bear the suffix 'R' to their road numbers. All WDP-3A locomotives of KYN DLS were condemned in January 2022 and scrapped at DLS. ") 
   alert("Maximum speed: 160 km/h")
     alert("Power output: 3100 HP")
 }
