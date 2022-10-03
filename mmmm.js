@@ -71,7 +71,7 @@ function WAGA() {
 
 function WAGB() {
   alert("WAG 7 LOCOMOTIVE") 
-  alert("It is a broad gauge locomotive")  
+  alert("The Indian locomotive class WAG-7 is a class of 25 kV AC electric locomotives that was developed in 1990 by Chittaranjan Locomotive Works for Indian Railways. The model name stands for broad gauge (W), alternating current (A), goods traffic (G) engine, 7th generation (7). They entered service in 1992. A total of 1970 WAG-7 were built at CLW and BHEL between 1990 and 2015, which made them the most numerous class of mainline electric locomotive till its successor the WAG-9. The WAG-7 is one of the most successful locomotives of Indian Railways currently serving both freight and passenger trains for over 30 years. Even though with the advent of new 3-phase locomotives like WAG-9 and WAG-12, all WAG-7 locomotives except ones destroyed in accidents, rest are in service and doing all types of duties. ")  
   alert("Maximum speed: 105 km/h")
     alert("Power output:5,350 hp (3,990 kW)")
 }
