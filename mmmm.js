@@ -90,7 +90,7 @@ function WAGD() {
 }
 function WAM() {
   alert("WAM 4 LOCOMOTIVE") 
-  alert("It is a broad gauge locomotive") 
+  alert("The Indian locomotive class WAM-4 is a class of 25 kV AC electric locomotives that was developed in 1970 by Chittaranjan Locomotive Works for Indian Railways. The model name stands for broad gauge (W), alternating current (A), mixed traffic (M) engine, 4th generation (4). They entered service in March 1971. A total of 500 WAM-4 were built at CLW between 1970 and 1983, which made them the most numerous class of mainline electric locomotive till its successor the WAG-5. The WAM-4 is one of the most successful locomotives of Indian Railways having served both passenger and freight trains for over 51 years. This class provided the basic design for a number of other locomotives like WCAM-1, WAG-5A, WCG-2, and some WAP-1 models. However, with the advent of new 3-phase locomotives like WAP-5 and WAP-7, the WAM-4 locomotives were relegated to hauling smaller passenger trains and now the aging fleet of WAM-4 locomotives are being rapidly scrapped and have been fully withdrawn from mainline duties. This loco has the widest variety of liveries, with each loco shed having its own livery. Most of the WAM-4 locomotives now have their MU capability disabled as RDSO disapproves of these locomotives running MU'd over 100 km/h") 
   alert("Maximum speed: 120 km/h")
   alert("Power output: 3,640 hp (2,710 kW)")
 }
