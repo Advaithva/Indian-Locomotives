@@ -21,7 +21,7 @@ function WDGB() {
 
 function WDMA() {
   alert("WDM 2 LOCOMOTIVE") 
-  alert("It is a broad gauge locomotive")  
+  alert("The Indian locomotive class WDM-2 is a class of diesel-electric locomotive that was developed in 1962 by American Locomotive Company (ALCO) for Indian Railways. The model name stands for broad gauge (W), Diesel (D), Mixed traffic (M) engine, 2nd generation (2). They entered service in 1962. A total of 2700+ WDM-2 was built at ALCO and Banaras Locomotive Works (BLW or DLW, as it was formerly Diesel Locomotive Works), Varanasi between 1962 and 1998, which made them the most numerous class of mainline diesel locomotive until its successor the WDM-3A. The WDM-2 is one of the most successful locomotives of Indian Railways serving both passenger and freight trains for over 60 years. A few WDM-2 units were exported to neighboring countries like Sri Lanka and Bangladesh. Despite the introduction of more modern types of locomotives like WDG-4 and electrification, a significant number are still in use, both in mainline and departmental duties. As of April 2022, 10 locomotives still retain operational status on the mainline as WDM-2. A number of WDM-2 locomotives have been preserved all over India with some units still in service. ")  
   alert("Maximum speed: 120 km/h")
     alert("Power output: 2,600 hp (1,900 kW)")
 }
