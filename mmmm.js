@@ -56,7 +56,7 @@ function WDPD() {
   alert("WDG 6G LOCOMOTIVE") 
   alert("WDG-6G is a class of diesel-electric locomotive used by the Indian Railways for freight duty. The locomotive is a higher power variant of the WDG-4G locomotive which was also designed by General Electric. The design platform is based on the GE Evolution Series and features a 4-stroke 16-cylinder fully turbocharged engine which delivers around 6,000 horsepower.")  
   alert("Maximum speed: 100 km/h")
-    alert("Power output: 6,000 hp (4,470 kW))")
+    alert("Power output: 6,000 hp (4,470 kW)")
 }
 
 
@@ -64,7 +64,7 @@ function WDPD() {
 
 function WAGA() {
   alert("WAG 5 LOCOMOTIVE") 
-  alert("It is a broad gauge locomotive") 
+  alert("The Indian locomotive class WAG-5 is a class of 25 kV AC electric locomotives that was developed in 1978 by Chittaranjan Locomotive Works for Indian Railways. The model name stands for broad gauge (W), alternating current (A), goods traffic (G) engine, 5th generation (5). They entered service in 1980. A total of 1196 WAG-5 were built at CLW and BHEL between 1978 and 1998, which made them the most numerous class of mainline electric locomotive till its successor the WAG-7. The WAG-5 is one of the most successful locomotives of Indian Railways currently serving both freight and passenger trains for over 42 years. This class provided the basic design for a number of other locomotives, like WAG-7 and the WCM-6. However, with the advent of new 3-phase locomotives like WAG-9 and WAG-12, the WAG-5 locomotives were relegated to hauling smaller passenger trains and now the aging fleet the WAG-5 locomotives are slowly being withdrawn from mainline duties and scrapped. The Indian locomotive class WAG-7 is a class of 25 kV AC electric locomotives that was developed in 1990 by Chittaranjan Locomotive Works for Indian Railways. The model name stands for broad gauge (W), alternating current (A), goods traffic (G) engine, 7th generation (7). They entered service in 1992. A total of 1970 WAG-7 were built at CLW and BHEL between 1990 and 2015, which made them the most numerous class of mainline electric locomotive till its successor the WAG-9. The WAG-7 is one of the most successful locomotives of Indian Railways currently serving both freight and passenger trains for over 30 years. Even though with the advent of new 3-phase locomotives like WAG-9 and WAG-12, all WAG-7 locomotives except ones destroyed in accidents, rest are in service and doing all types of duties. ") 
   alert("Maximum speed: 105 km/h")
   alert("Power output: 3,850 hp (2,870 kW)")
 }
