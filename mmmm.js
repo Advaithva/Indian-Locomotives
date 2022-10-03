@@ -84,7 +84,7 @@ function WAGC() {
 
 function WAGD() {
   alert("WAG 12 LOCOMOTIVE") 
-  alert("It is a broad gauge locomotive")  
+  alert("The Indian locomotive class WAG-12B is a class of 25 kV AC electric locomotives that was developed in 2017 by Alstom with technological collaboration with Indian Railways. The model name stands for broad gauge (W), Alternating Current (AC), Goods traffic (G) locomotive, 12000 hp (12). They entered trial service in 2019. A total of 250 WAG-12B have been built at Electric Locomotive Factory, Madhepura, Bihar, India. With a power output of 12,000 HP, the WAG 12 is twice as powerful as its immediate predecessor, WAG-9, and is among the most powerful freight locomotives in the world. The locomotive is being developed for deployment on the Dedicated Freight Corridors, where it will be used to haul freight trains weighing more than 6,000 tonnes (5,900 long tons; 6,600 short tons) at speeds of 100 km/h (62 mph) to 120 km/h (75 mph), essentially doubling the average speed of freight trains in the sector. They are three phase, twin-section electric freight locomotive consisting of two identical sections, each of which rests on two twin-axled Bo-Bo bogies. The locomotive is being jointly developed by Alstom and the Indian Railways, and is the first Indian Railways locomotive that has a power output greater than 10,000 horsepower. With a power output of 12,000 HP, it is twice as powerful as its immediate predecessor, WAG-9, and is one of the most powerful freight locomotives in the world")  
   alert("Maximum speed: 120 km/h")
     alert("Power output: 12,000 hp (8,950 kW)")
 }
