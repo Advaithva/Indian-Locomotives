@@ -3,6 +3,7 @@ function YDM() {
   alert("The class YDM-4 is Indian Railways' workhorse diesel locomotive. The first units were imported fully built from the American Locomotive Company (Alco) in 1961. Since 1968, it has been manufactured in India by the Banaras Locomotive Works (BLW), Varanasi. The model name stands for metre gauge (Y), diesel (D), mixed traffic (M) engine. The YDM-4 has been the most successful diesel locomotive in the metre gauge operation of Indian Railways. The YDM-4A is a variant of the YDM-4 supplied by MLW . Originally equipped with vacuum brakes. Some were later equipped with dual brakes, particularly those working in the Northeast Frontier Railway were retrofitted with dual brake system by Lumding shed. ") 
   alert("Maximum speed: 96 km/h")
   alert("Power output: 1,400 hp (1,000 kW)")
+  
 }
 
 function WDGA() {
