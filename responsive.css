@@ -1,1 +1,10 @@
-
+@media(max-width: 480px) {
+  
+  .heading {
+    font-size:40px;
+    padding:40px;
+        
+    
+  }
+  
+}
