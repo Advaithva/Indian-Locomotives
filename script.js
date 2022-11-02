@@ -13,6 +13,7 @@ function WDGA() {
   alert("Maximum speed: 105 km/h")
     alert("Power output:3100 HP")
 }
+
 function WDGB() {
   alert("WDG 4 LOCOMOTIVE") 
   alert("Maximum speed: 105 km/h")
